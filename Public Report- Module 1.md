@@ -1,8 +1,8 @@
-# Module 1
+# Module 1 - Discover and Understanding Solution
 
 ## Introduction
 
-Technological advancement has transformed many areas, especially in the context of accessibility and inclusion. This project focuses on the application of Artificial Intelligence (AI) in the communication of nonverbal autistic children, using Augmentative and Alternative Communication (AAC) methodologies. The goal is to develop a solution that allows children, particularly those with difficulties in verbalization, to communicate more efficiently and independently, using simple technologies.
+Technological advancement has transformed many areas, especially in the context of accessibility and inclusion. This project is part of a scientific research initiative that aims to understand how Artificial Intelligence (AI) can impact the communication of nonverbal autistic children. It focuses on the application of AI within Augmentative and Alternative Communication (AAC) methodologies. The goal is to develop a solution that allows children, particularly those with difficulties in verbalization, to communicate more efficiently and independently, using simple technologies.
 
 The project aims not only to offer an innovative option to traditional AAC technologies, such as the GoTalk20+, but also to understand the effectiveness of using AI to generate pictograms and stimulate children's speech from photos or text. The development of this application considers accessibility and usability for the target audience, with the promise of a solution that significantly contributes to the school inclusion of these children.
 
